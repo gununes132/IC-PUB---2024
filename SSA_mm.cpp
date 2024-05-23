@@ -1,6 +1,5 @@
 /*
-    Numerical simulation of the systems presented in chapter 7 of Stochastic Modelling for Systems Biology by Wilkinson 
-    ("Dimerisation kinetics" and "Michaelis-Menten kinetics") using SSA.
+    Numerical simulation of Michaelis-Menten kinetics model using SSA.
     
     argv[1] - maximum simulation time
 
