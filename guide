@@ -1,0 +1,15 @@
+git status 
+
+git add . - adiciona arquivos para o commit
+
+git commit -m "" - faz o commit de fato
+
+git push - atualiza a versão remota 
+
+git pull - atualiza a versão local
+
+git branch - mostra disponiveis ou cria uma
+
+git checkout - muda de branch 
+
+git blame - Cagueta!
